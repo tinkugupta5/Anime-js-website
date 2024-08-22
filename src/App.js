@@ -7,8 +7,6 @@ const AnimeComponent = () => {
 
   useEffect(() => {
     const container = containerRef.current;
-
-   
     container.innerHTML = "";
 
     for (let i = 1; i <= 100; i++) {

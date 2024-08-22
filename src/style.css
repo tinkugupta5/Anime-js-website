@@ -126,7 +126,7 @@ section .container .element
     position: relative;
     width: 40px;
     height: 40px;
-    background: rgb(255, 255, 255);
+    background:rgb(188, 255, 188) ;
    /* margin: 10px; */
     scale: 0.75;
 }
